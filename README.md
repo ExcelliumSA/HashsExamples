@@ -6,7 +6,7 @@ You can find a version of the full `rockyou.txt` [here](https://github.com/brann
 
 # Requirements
 
-:triangular_flag_on_post: Require Python >= 3.8
+:triangular_flag_on_post: Require Python >= 3.9
 
 Type the following command to install the required modules:
 
