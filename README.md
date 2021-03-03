@@ -1,4 +1,4 @@
-# HashsExamples
+# HashesExamples
 
 The examples for the Hashes newsletter
 
