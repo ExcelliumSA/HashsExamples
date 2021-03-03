@@ -6,7 +6,7 @@ You can find a version of the full `rockyou.txt` [here](https://github.com/brann
 
 # Requirements
 
-> Require Python 3
+:triangular_flag_on_post: Require Python >= 3.8
 
 Type the following command to install the required modules:
 
@@ -16,6 +16,8 @@ $ pip install -r requirements.txt
 
 # Demonstration
 
-> Run the script [demo.sh](demo.sh) to execute the demonstration.
+[![Demonstration](https://github.com/ExcelliumSA/HashsExamples/actions/workflows/demo.yml/badge.svg?branch=main)](https://github.com/ExcelliumSA/HashsExamples/actions/workflows/demo.yml)
 
-Here is an exemple of the scripts running (The video is not edited, I suggest you to skip to the end to check the results) <a href="https://asciinema.org/a/2y6fTRUNJEZxUY4cQbNvkdHqT"><img src="https://asciinema.org/a/2y6fTRUNJEZxUY4cQbNvkdHqT.png"/></a>
+:dash: Run the script [demo.sh](demo.sh) to execute the demonstration.
+
+Here is an exemple of the scripts running (*the video is not edited, I suggest you to skip to the end to check the results*) <a href="https://asciinema.org/a/2y6fTRUNJEZxUY4cQbNvkdHqT"><img src="https://asciinema.org/a/2y6fTRUNJEZxUY4cQbNvkdHqT.png"/></a>
