@@ -9,8 +9,17 @@ with open(sys.argv[1], "rb") as f:
 
 start = time.time()
 
+decode = False
+try:
+    bcrypt.hashpw(lines[0], bcrypt.gensalt())
+except TypeError:
+    decode = True
+
 for line in lines:
-    bcrypt.hashpw(line, bcrypt.gensalt())
+    if decode:
+        bcrypt.hashpw(line.decode(), bcrypt.gensalt())
+    else:
+        bcrypt.hashpw(line, bcrypt.gensalt())
 
 end = time.time()
 sec = end - start
