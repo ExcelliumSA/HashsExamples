@@ -4,6 +4,10 @@ The examples for the Hashes newsletter
 
 You can find a version of the full `rockyou.txt` [here](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt).
 
+# Blog post
+
+https://excellium-services.com/2021/08/02/passwords-hash-them-harder-better-faster-stronger/
+
 # Requirements
 
 :triangular_flag_on_post: Require Python >= 3.9
